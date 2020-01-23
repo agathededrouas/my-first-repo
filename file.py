@@ -59,5 +59,11 @@ print(int(mom_age) - int(age))
 
 'there are ' + str(4) +' dogs barking'
 
+#%%
+
+def func(a, b):
+    return a + b
+
+
 
 
